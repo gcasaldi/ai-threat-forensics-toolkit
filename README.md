@@ -64,17 +64,6 @@ http://secure-account-verification-update-login.xyz/reset,95.7,High
 
 Per i dettagli tecnici, notebook e script avanzati: `docs/technical.md`.
 
-## GUI (opzionale)
-
-Il progetto include una GUI minimale per analisti che vogliono eseguire rapidamente il triage da file. Vedi `scripts/gui.py` e le istruzioni estese in `docs/gui.md`.
-
-Quick start GUI:
-
-```bash
-pip install -r requirements-dev.txt
-python scripts/gui.py
-```
-
 ## Licenza
 
 MIT — vedi `LICENSE`.
