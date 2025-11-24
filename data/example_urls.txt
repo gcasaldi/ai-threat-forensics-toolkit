@@ -1,0 +1,3 @@
+http://login-paypal-security-check.example.com/update
+https://www.google.com
+http://secure-account-verification-update-login.xyz/reset

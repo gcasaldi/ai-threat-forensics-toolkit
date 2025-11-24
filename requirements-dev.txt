@@ -1,0 +1,10 @@
+pytest
+ruff
+pre-commit
+scikit-learn
+joblib
+pandas
+jupyterlab
+matplotlib
+seaborn
+nbconvert

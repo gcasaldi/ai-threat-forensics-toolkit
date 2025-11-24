@@ -1,0 +1,4 @@
+url,score,verdict
+http://login-paypal-security-check.example.com/update,70.3,High
+https://www.google.com,2.2,Low
+http://secure-account-verification-update-login.xyz/reset,95.7,High
